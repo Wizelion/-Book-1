@@ -1,2 +1,2 @@
-Main CHAPTER 2.
-This is chapter 2 without any modifiction.
+Second Idea: CHAPTER 2.
+This is modified chapter 2 with second idea modifiction.
