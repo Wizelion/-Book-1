@@ -1,2 +1,2 @@
 Master CHAPTER 4.
-This is chapter 4 in the Master without any modification.
+This is chapter 4 in the Master, but modified by Amzelion after being forked on his Github portfolio account.
